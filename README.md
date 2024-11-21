@@ -19,8 +19,8 @@ Mạch cấp nguồn bổ sung MKE-M12 5VDC 5A power supply module còn có th�
 - Bổ sung thêm cổng VIN và VOUT dạng Domino cấp nguồn linh hoạt.
 - Bổ sung thêm các thiết kế ổn định, chống nhiễu.
 - Chuẩn kết nối:
-- 2 x Conector XH2.54 4Pins
-- 2 x Conector Domino 2P
+  - 2 x Conector XH2.54 4Pins
+  - 2 x Conector Domino 2P
 - Thuộc hệ sinh thái phần cứng Robotics MakerEdu, tương thích tốt nhất khi sử dụng với các mạch điều khiển của MakerEdu và MakerEdu Shield.
 
 ## Kích thước
